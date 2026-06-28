@@ -98,7 +98,7 @@ O **trânsito sintético** aplica multiplicadores por categoria de via (`primary
 ## Contribuição dos Participantes:
 - Carlos Silvano: Implementação do algoritmo A* e do RideSmart, colaboração na escrita do relatório;
 - Felix Luiz: Implementação do algoritmo Dijkstra simples e com heap, colaboração na escrita do relatório;
-- Pedro Paixão: Implementação do algoritmo Dijkstra Bidirecional, colaboração na escrita do relatório.
+- Pedro Paixão: Implementação do algoritmo Dijkstra Bidirecional, colaboração na implementação do RideSmart e no codigo de definição do melhor ponto de embarque e melhor caminho, colaboração na escrita do relatório.
 
   
 ## Licença
