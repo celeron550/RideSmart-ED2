@@ -95,7 +95,12 @@ O **trânsito sintético** aplica multiplicadores por categoria de via (`primary
 - Restrições de Segurança no Embarque: Adicionar uma camada de filtragem que impeça o ponto de embarque $P$ de ser alocado em locais perigosos, vias de alta velocidade sem acostamento (ex: viadutos ou pontes) ou locais onde a parada de veículos seja proibida por lei.
 
 ---
+## Contribuição dos Participantes:
+- Carlos Silvano: Implementação do algoritmo A* e do RideSmart, colaboração na escrita do relatório;
+- Felix Luiz: Implementação do algoritmo Dijkstra simples e com heap, colaboração na escrita do relatório;
+- Pedro Paixão: Implementação do algoritmo Dijkstra Bidirecional, colaboração na escrita do relatório.
 
+  
 ## Licença
 
 Distribuído sob a licença [GPL-3.0](LICENSE).
